@@ -47,7 +47,7 @@ shinyUI(fluidPage(
             h4("Reference:"),
     
             a("Github", 
-              href = "",
+              href = "https://github.com/Prim8/Web_applications/tree/master/Finance",
               target = "_blank")
     
         ),
