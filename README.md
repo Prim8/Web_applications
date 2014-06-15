@@ -2,8 +2,8 @@
 
 This folder includes a series of interactive web applications and presentations.
 
-Direct links for visualization:
+Direct links for visualization of the above applications:
 
-[Finance](https://prim8.shinyapps.io/Finance/)
+<a href="https://prim8.shinyapps.io/Finance/"_blank">Finance</a>
 
-[Ozone](https://prim8.shinyapps.io/Ozone/)
+<a href="https://prim8.shinyapps.io/Ozone/" target="_blank">Ozone</a>

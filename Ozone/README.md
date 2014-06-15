@@ -1,6 +1,8 @@
 # An interactive web application to visualize the relationship between ozone, radiation, temperature, and wind
 
-Click [here](https://prim8.shinyapps.io/Ozone/) for a live version of this web application. 
+Click
+<a href="https://prim8.shinyapps.io/Ozone/" target="_blank">here</a>
+for a live version of this web application. 
 
 
 ### Brief description

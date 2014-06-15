@@ -1,6 +1,8 @@
 # An interactive web application to visualize stock market data
 
-Click [here](https://prim8.shinyapps.io/Finance/) for a live version of this web application. 
+Click
+<a href="https://prim8.shinyapps.io/Finance/"_blank">here</a>
+for a live version of this web application. 
 
 
 ### Brief description
