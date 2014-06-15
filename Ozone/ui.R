@@ -46,8 +46,9 @@ shinyUI(fluidPage(
             h4("Reference:"),
             
             a("Github", 
-                href = "https://github.com/Prim8/Web_applications/tree/master/Ozone")
-        ),
+                href = "https://github.com/Prim8/Web_applications/tree/master/Ozone",
+                target = "_blank")
+            ),
         
         mainPanel(
             h3(textOutput("caption")),
